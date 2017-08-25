@@ -11,7 +11,6 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "demo_sites": {},
     "siteurl": "http://prepara-t.mx",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
