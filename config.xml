@@ -2,10 +2,10 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="mx.prepara-t.mobile" version="1.0">
     <name>PREPARA-T</name>
     <description>
-        Aplicacion Oficial de PREPARA-T
+        Actividades de estudio de los Módulos de Preparatoria Abierta
     </description>
     <author href="http://prepara-t.mx" email="admin@prepara-t.mx">
-        Equipo Técnico de Prepara-t
+        Académia de PREPARA-T
     </author>
     <content src="index.html"/>
     <access origin="*"/>
